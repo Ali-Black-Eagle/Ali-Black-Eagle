@@ -4,15 +4,16 @@ Full-stack developer from Iran. I build fast, accessible websites, e-commerce st
 
 ## 🚀 Recent work
 
-**[Perseus Talent](https://perseustalent.co.uk)** · UK healthcare recruitment website
+**Perseus Talent** · UK healthcare recruitment website · [Live site](https://www.perseustalent.co.uk) · [Code](https://github.com/Ali-Black-Eagle/perseus-talent)
 - Candidate registration, employer enquiry and fee calculator flows with validated forms
 - Lighthouse **99–100** performance and **100** accessibility, best practices and SEO
-- Tested with Playwright end-to-end tests, axe accessibility checks and Vitest
+- 118 automated tests: Playwright end-to-end, axe accessibility checks and Vitest
 
-**[Profarm Shiraz](https://profarm-shiraz.netlify.app)** · Organic food e-commerce store
+**Profarm Shiraz** · Organic food e-commerce platform · [Live site](https://profarm-shiraz.netlify.app) · [Code](https://github.com/Ali-Black-Eagle/profarm-shiraz)
 - Next.js, TypeScript, Prisma and PostgreSQL, built end to end
 - Online payments, subscriptions, delivery time slots and SMS order notifications
-- Admin panel plus a native Android admin app (Kotlin)
+- Admin panel plus a native Android admin app (Kotlin, Jetpack Compose)
+- Security audit and 167 Playwright end-to-end tests
 
 ## 🛠 Tech I use
 
