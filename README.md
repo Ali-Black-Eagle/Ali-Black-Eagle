@@ -15,9 +15,16 @@ Full-stack developer from Iran. I build fast, accessible websites, e-commerce st
 - Admin panel plus a native Android admin app (Kotlin, Jetpack Compose)
 - Security audit and 167 Playwright end-to-end tests
 
+**Poultry Farm Manager** · Android app for poultry farmers · [Code](https://github.com/Ali-Black-Eagle/poultry-farm-manager)
+- Native Android in Kotlin and Jetpack Compose, about 108k lines, fully offline
+- Flock, feed, egg, warehouse and finance management with reminders and home-screen widgets
+- Veterinary guide with 76 diseases, symptom-based diagnosis and decision simulators
+- Offline Persian voice assistant: number and date parsing, intent scoring, multi-turn dialogue and undo
+
 ## 🛠 Tech I use
 
 - **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML/CSS
+- **Mobile:** Android · Kotlin · Jetpack Compose · SQLite
 - **Backend:** Node.js · Python · REST APIs · Prisma · PostgreSQL · Zod
 - **Tools:** Git · Docker · Netlify · Playwright · Vitest
 
